@@ -1,0 +1,5 @@
+SunSpotHttpTransmitter
+======================
+
+A SunSpot host application which opens http urls requested by SunSpot clients
+
