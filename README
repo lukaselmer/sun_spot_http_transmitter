@@ -1,5 +1,7 @@
 SunSpotHttpTransmitter
 ======================
 
-A SunSpot host application which opens http urls requested by SunSpot clients
+A SunSpot host application which opens http urls requested by SunSpot clients.
+
+For instructions have a look at the github wiki (http://github.com/lukaselmer/sun_spot_puzzle/wiki).
 
